@@ -105,6 +105,12 @@ Compare with previous levels: before Level 08, both Carlos and Ana could see 2 G
   <br><em>Brew keeps everyone in their lane — but is he still being a good barista?</em>
 </p>
 
+## What's next
+
+Level 09 adds AgentCore Evaluations — LLM-as-Judge monitors Brew's response quality continuously.
+
+➡️ [Go to Level 09](../level_09_evaluations/INSTRUCTIONS.md)
+
 ## Troubleshooting
 
 | Error | Fix |
